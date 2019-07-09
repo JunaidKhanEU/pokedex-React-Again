@@ -1,0 +1,15 @@
+.pokedex{
+  padding: 10px;
+  margin: 5px;
+  background: #eee;
+  text-align: center;
+}
+
+.Winner{
+  color: green;
+
+}
+.Loser{
+  color: rgb(128, 0, 11);
+
+}

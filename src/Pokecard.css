@@ -1,0 +1,12 @@
+.pokecard{
+  display: flex;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+.pokecard-title{
+  text-align: center;
+}
+.pokecard-text{
+  text-align: center;
+}
